@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+
+}
+
+.jumbotron{
+	background:
+
+		linear-gradient( 
+			rgba(255,255,255,0.45),
+			rgba(255,255,255,0.45)
+		),
+		url('../images/maxresdefault.jpg') no-repeat;
+}
+
+footer{
+	background: #f4f4f4;
+	position: absolute;
+	bottom: 0;
+	height: 40px;
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 10px;
+	overflow: auto;
+}
